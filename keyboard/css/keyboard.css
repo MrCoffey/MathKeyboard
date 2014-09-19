@@ -1,0 +1,21 @@
+#keyboard{
+	margin: 0 auto;
+	width: 40%;
+}
+#keyboard input{
+	width: 5%;
+	height: 25px;
+	background-color: #72b288;
+}
+#second_row{
+	padding-top: 1%;
+}
+
+#third_row{
+	padding-top: 1%;
+	padding-left: 4%;
+}
+#bottom_row{
+	padding-top: 1%;
+	padding-left: 10%;
+}
